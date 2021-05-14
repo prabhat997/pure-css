@@ -1,2 +1,2 @@
 # pure-css
-This a bouncing ball.
+This is a bouncing ball.
